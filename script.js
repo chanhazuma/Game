@@ -49,7 +49,7 @@ window.onload = () => {
     // bola
     ctx.beginPath();
     ctx.arc(x, y, r, 0, Math.PI * 2);
-    ctx.fillStyle = "white";
+    ctx.fillStyle = "#FFB7CF";
     ctx.fill();
 
     // paddle
