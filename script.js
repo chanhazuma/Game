@@ -1,5 +1,6 @@
 window.onload = () => {
-  alert("🎮 BOUNCE BALL\n\nTekan OK untuk mulai!");
+  alert("
+    ִֶָ𓂃 ࣪˖ ִֶָ🎮 BOUNCE BALL⋆˚࿔ name 𝜗𝜚˚⋆ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐\n\nTekan OK untuk mulai!");
 
   const canvas = document.getElementById('cnv');
   const ctx = canvas.getContext('2d');
@@ -82,7 +83,7 @@ window.onload = () => {
     // GAME OVER
     // ======================
     if (y + r > canvas.height) {
-      alert("💀 Game Over!\n\nScore kamu : " + s + "\n\nTekan OK untuk main lagi!");
+      alert("o(╥﹏╥)o Game Over!\n\nScore kamu : " + s + "\n\nTekan OK untuk main lagi!🌟");
       x = 50;
       y = 50;
       dx = 4;
