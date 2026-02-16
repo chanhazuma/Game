@@ -1,6 +1,5 @@
 window.onload = () => {
-  alert("
-    ִֶָ𓂃 ࣪˖ ִֶָ🎮 BOUNCE BALL⋆˚࿔ name 𝜗𝜚˚⋆ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐\n\nTekan OK untuk mulai!");
+  alert("🎮 BOUNCE BALL\n\nTekan OK untuk mulai!");
 
   const canvas = document.getElementById('cnv');
   const ctx = canvas.getContext('2d');
