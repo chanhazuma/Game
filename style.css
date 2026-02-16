@@ -1,16 +1,16 @@
 body{
-  background-color: gray;
+  background-color: white;
 }
 canvas{
-  backdrop-filter: #323232;
-  box-shadow: 0 0 10px black;
+  backdrop-filter#FFB7CF;
+  box-shadow: 0 0 10px #FFB7CF;
   
 }
 button{
   margin: auto;
   width: 30%;
   font-size: 1.5em;
-  box-shadow: 0 0 10px black;
+  box-shadow: 0 0 10px #FFB7CF;
   margin-top: 5px;
   outline: none;
 }
