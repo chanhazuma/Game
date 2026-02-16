@@ -7,10 +7,9 @@ canvas{
   
 }
 button{
-  margin: auto;
+  margin: 5px 15px;
   width: 30%;
   font-size: 1.5em;
   box-shadow: 0 0 10px #FFB7CF;
-  margin-top: 5px;
   outline: none;
 }
