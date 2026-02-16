@@ -4,6 +4,7 @@ body{
 canvas{
   backdrop-filter#FFB7CF;
   box-shadow: 0 0 10px #FFB7CF;
+  border-radius: 12px;
   
 }
 button{
